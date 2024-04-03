@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcb900&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+Welcome+to+Doniva's+Area;I'm+17+years+old+and+I+live+in+Marília,+SP,+Brazil;I'm+studying+Front-End+Development+at+home;Be+welcome!+S2)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DonivaM&show_icons=true&count_private=true&hide_border=true&title_color=fcb900&icon_color=fcb900&text_color=c9d1d9&bg_color=21050b" alt="Nicollas Rocha github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DonivaM&show_icons=true&count_private=true&hide_border=true&title_color=fcb900&icon_color=fcb900&text_color=c9d1d9&bg_color=21050b" alt="DonivaM github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonivaM&layout=compact&hide_border=true&title_color=fcb900&text_color=c9d1d9&bg_color=21050b" />
 </div>
 
